@@ -1,0 +1,7 @@
+require "dry/configurable"
+require "k-form-rb/calculated_fields"
+require "k-form-rb/form_builder"
+require "k-form-rb/errors"
+require "k-form-rb/warnings"
+require "k-form-rb/generators"
+require "k-form-rb/railtie"
